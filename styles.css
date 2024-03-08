@@ -1,14 +1,14 @@
 /* styles.css */
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Optima, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #31351b; /* Dark green */
-    color: #ce7e00; /* Light orange */
+    background-color: #08605F; /* caribbean current(darkgreenish) */
+    color: #FCDDF2; /* pinkish */
 }
 header {
-    background-color: #000033; /* Dark blue */
+    background-color: #6C91BF; /* Silverlake blue */
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -22,13 +22,13 @@ header {
 }
 aside {
     width: 20%;
-    background-color: #7d2610; /* Dark red */
+    background-color: #C2CFB2; /* Ash Gray */
     padding: 20px;
 }
 main {
     width: 80%;
     padding: 20px;
-    background-color: #6e1c1e; /* Dark red */
+    background-color: #B27C66; /* brownsugarohya */
 }
 /* Adjustments for mobile responsiveness */
 @media (max-width: 768px) {
