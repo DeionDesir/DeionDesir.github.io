@@ -6,6 +6,7 @@ body {
     padding: 0;
     background-image: linear-gradient(to bottom, #361ECC, #BBE6E4, #42BFDD);
     background-repeat: no-repeat;
+    background-size: cover;
     color: #fff; /* white */
 }
 header {
