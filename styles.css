@@ -4,11 +4,11 @@ body {
     font-family: Optima, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #08605F; /* caribbean current(darkgreenish) */
-    color: #FCDDF2; /* pinkish */
+    background-color: #150578; /* Navyblue */
+    color: #fff; /* white */
 }
 header {
-    background-color: #6C91BF; /* Silverlake blue */
+    background-color: #0E0E52; /* federales blue */
     color: #fff;
     padding: 20px;
     text-align: center;
@@ -22,13 +22,13 @@ header {
 }
 aside {
     width: 20%;
-    background-color: #C2CFB2; /* Ash Gray */
+    background-color: #D8A7CA; /* Ash Gray */
     padding: 20px;
 }
 main {
     width: 80%;
     padding: 20px;
-    background-color: #B27C66; /* brownsugarohya */
+    background-color: #192BC2; /* moreblue */
 }
 /* Adjustments for mobile responsiveness */
 @media (max-width: 768px) {
