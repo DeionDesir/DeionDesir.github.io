@@ -4,7 +4,7 @@ body {
     font-family: Optima, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #150578; /* Navyblue */
+    background-image: linear-gradient(to bottom, #0E0E52, #150578);
     color: #fff; /* white */
 }
 header {
