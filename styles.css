@@ -4,13 +4,13 @@ body {
     font-family: Optima, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to bottom, #0E0E52, #150578);
+    background-image: linear-gradient(to bottom, #361ECC, #BBE6E4, #42BFDD);
     color: #fff; /* white */
 }
 header {
-    background-color: #0E0E52; /* federales blue */
+    background-color: rgba(97, 150, 255, 0.6); /* federales blue */
     color: #fff;
-    padding: 20px;
+    padding: 0px;
     text-align: center;
 }
 .container {
