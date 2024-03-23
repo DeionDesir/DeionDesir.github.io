@@ -1,8 +1,6 @@
 title: Deion Desir
 logo: IMG_4836.jpeg
-description: Educator, Scientist, Visualizer, NYC
+description: Visualizer, Scientist, Educator, NYC
 show_downloads: false
 google_analytics:
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme 
+remote_theme: jekyll-theme-minimal
