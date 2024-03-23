@@ -1,0 +1,6 @@
+title: Minimal theme
+logo: /assets/img/unnamed.jpg
+description: Visualizer, Scientist, Educator, NYC
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
