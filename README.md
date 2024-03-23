@@ -2,10 +2,7 @@
 
 This is a page for Deion Desir - Educator, Scientist, Visualizer, and New Yorker
 
-# Deion's Resume
-
-## Table of Contents
-
+# Resume
 - [Education](#education)
 - [Work Experience](#work-experience)
 - [Skills](#skills)
