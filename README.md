@@ -7,6 +7,8 @@ This is a page for Deion Desir - Educator, Scientist, Visualizer, and New Yorker
 - [Skills](#skills)
 - [Portfolio](#portfolio)
 
+![Jupiter](assets/img/JupiterEclipse.gif)
+
 ---
 
 ## Education
