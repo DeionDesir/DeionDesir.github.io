@@ -51,16 +51,16 @@ This is a page for Deion Desir - Educator, Scientist, Visualizer, and New Yorker
 Here are some examples of my work currently available on the web:
 
 - [Video 1](https://www.youtube.com/watch?v=_9GA0PjOSbI)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/_9GA0PjOSbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 - [Video 2](https://www.youtube.com/watch?v=N79TowJOHHE)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/N79TowJOHHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
 
 - [Video 3](https://www.youtube.com/watch?v=4b61xxeAa4U)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/4b61xxeAa4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 
 - [Video 4](https://www.youtube.com/watch?v=GL0SJTFWejA)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/GL0SJTFWejA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
 
 - [Video 5](https://www.youtube.com/watch?v=6m0Rfs2hnkA)
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6m0Rfs2hnkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  
