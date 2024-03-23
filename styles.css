@@ -1,4 +1,7 @@
 /* styles.css */
+---
+---
+@import "{{ site.theme }}";
 
 body {
     font-family: Optima, sans-serif;
