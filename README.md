@@ -1,3 +1,4 @@
+![Earth and Sun](assets/img/thinbanner.png)
 This is a page for Deion Desir - Educator, Scientist, Visualizer, and New Yorker
 
 # Resume
