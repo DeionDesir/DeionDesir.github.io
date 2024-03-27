@@ -51,17 +51,17 @@ This is a page for Deion Desir - Educator, Scientist, Visualizer, and New Yorker
 
 Here are some examples of my work currently available on the web:
 
-- [Video 1](https://www.youtube.com/watch?v=_9GA0PjOSbI)
+- [Astronomer's Guide to 2024 Total Solar Eclipse](https://www.youtube.com/watch?v=_9GA0PjOSbI)
 
 
-- [Video 2](https://www.youtube.com/watch?v=N79TowJOHHE)
+- [Known Universe in 360 Degrees](https://www.youtube.com/watch?v=N79TowJOHHE)
  
 
-- [Video 3](https://www.youtube.com/watch?v=4b61xxeAa4U)
+- [Astronomy Live](https://www.youtube.com/watch?v=4b61xxeAa4U)
   
 
-- [Video 4](https://www.youtube.com/watch?v=GL0SJTFWejA)
+- [Press Release: TESS Exoplanets](https://www.youtube.com/watch?v=GL0SJTFWejA)
   
 
-- [Video 5](https://www.youtube.com/watch?v=6m0Rfs2hnkA)
+- [Press Release: 14 Her](https://www.youtube.com/watch?v=6m0Rfs2hnkA)
   
