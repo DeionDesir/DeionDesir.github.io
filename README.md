@@ -51,6 +51,9 @@ This is a page for Deion Desir - Educator, Scientist, Visualizer, and New Yorker
 
 Here are some examples of my work currently available on the web:
 
+- [Next 20 Years of Solar Eclipses!](https://youtu.be/MySb6YbM-cY?si=D4dxCCJ4_i5FD1Qw)
+
+
 - [Astronomer's Guide to 2024 Total Solar Eclipse](https://www.youtube.com/watch?v=_9GA0PjOSbI)
 
 
